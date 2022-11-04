@@ -1,0 +1,9 @@
+.chat_box{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+.input_text{
+    margin-top: 4px;
+    width: 546px;
+}
